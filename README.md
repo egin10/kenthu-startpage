@@ -11,9 +11,6 @@ Should i tell u?
 ## How to custom ?
 I think you're more PRO than me
 
-## License
-The code is available under the [MIT License](https://github.com/fikriomar16/kenthu-startpage/blob/master/LICENSE.md)
-
 ##### Notes
 * Fontawesome ver : 4.7.0
 * Too much dirty code, srry
